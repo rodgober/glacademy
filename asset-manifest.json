@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/glacademy/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/glacademy/static/js/main.6513e6d5.chunk.js",
+    "main.js.map": "/glacademy/static/js/main.6513e6d5.chunk.js.map",
+    "runtime-main.js": "/glacademy/static/js/runtime-main.db8877b3.js",
+    "runtime-main.js.map": "/glacademy/static/js/runtime-main.db8877b3.js.map",
+    "static/js/2.a9164a59.chunk.js": "/glacademy/static/js/2.a9164a59.chunk.js",
+    "static/js/2.a9164a59.chunk.js.map": "/glacademy/static/js/2.a9164a59.chunk.js.map",
+    "static/js/3.6a3d6665.chunk.js": "/glacademy/static/js/3.6a3d6665.chunk.js",
+    "static/js/3.6a3d6665.chunk.js.map": "/glacademy/static/js/3.6a3d6665.chunk.js.map",
+    "index.html": "/glacademy/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/glacademy/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.a9164a59.chunk.js.LICENSE.txt": "/glacademy/static/js/2.a9164a59.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/glacademy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db8877b3.js",
+    "static/js/2.a9164a59.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.6513e6d5.chunk.js"
+  ]
+}
